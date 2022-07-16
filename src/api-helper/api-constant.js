@@ -1,0 +1,5 @@
+export const GET_EMPLOYEE = '/employees'
+export const GET_EMPLOYEE_BY_ID = '/employees'
+export const CREATE_EMPLOYEE = '/create'
+export const UPDATE_EMPLOYEE = '/update'
+export const DELETE_EMPLOYEE = '/delete'
